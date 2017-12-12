@@ -16,7 +16,7 @@ body {
 .follow {
   float: right;
   margin: 30px 20px;
-  background-image: url(/users/luisacherrera/prework/code/labs/lab-html-css-tweet-clone-master/starter-code/img/twitter-logo.jpg);
+  background-image: url(./img/twitter-logo.jpg);
   background-repeat: no-repeat;
   background-origin:content-box;
   background-position: left;
